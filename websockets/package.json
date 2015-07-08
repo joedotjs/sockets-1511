@@ -1,0 +1,13 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jquery": "^2.1.4",
+    "socket.io": "^1.3.5"
+  }
+}

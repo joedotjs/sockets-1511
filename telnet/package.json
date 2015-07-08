@@ -1,0 +1,8 @@
+{
+  "name": "telnet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)",
+  "license": "ISC"
+}
